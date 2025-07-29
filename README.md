@@ -1,6 +1,8 @@
 ## Hello
 I'm a newly graduated mechanical engineer, and currently trying to improve my programming ability, especially with Python and Arduino C++. 
 
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=Acanthophrynus747&show_icons=true&bg_color=00000000&rank_icon=percentile) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acanthophrynus747&bg_color=00000000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Acanthophrynus747/Acanthophrynus747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats
+
 -->
