@@ -1,4 +1,5 @@
 ## Hello
+I'm a newly graduated mechanical engineer, and currently trying to improve my programming ability, especially with Python and Arduino C++. 
 
 <!--
 **Acanthophrynus747/Acanthophrynus747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
